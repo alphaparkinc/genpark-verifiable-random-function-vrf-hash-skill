@@ -1,0 +1,6 @@
+name: genpark-verifiable-random-function-vrf-hash-skill
+version: 1.0.0
+description: Verifiable Random Function (VRF) generating deterministic pseudorandom output with verifiable non-interactive proof
+command: python
+args:
+  - mcp_server.py

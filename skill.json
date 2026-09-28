@@ -1,0 +1,20 @@
+{
+  "name": "genpark-verifiable-random-function-vrf-hash-skill",
+  "version": "1.0.0",
+  "description": "Verifiable Random Function (VRF) generating deterministic pseudorandom output with verifiable non-interactive proof",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "vrf",
+    "verifiable-random-function",
+    "randomness-beacon",
+    "cryptography",
+    "non-interactive-proof",
+    "python-standard-library",
+    "agent-skills",
+    "blockchain",
+    "leader-election",
+    "verifiable-computation"
+  ]
+}

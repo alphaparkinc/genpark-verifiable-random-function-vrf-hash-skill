@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-verifiable-random-function-vrf-hash-skill"
+version = "1.0.0"
+description = "Verifiable Random Function (VRF) generating deterministic pseudorandom output with verifiable non-interactive proof"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
